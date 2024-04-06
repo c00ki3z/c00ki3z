@@ -1,12 +1,10 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There, call me <b style="color: red; font-size: 1em; text-decoration: underline;">Dani</b></samp>
+        <samp>&gt; 「 Hey There, call me <b style="color: red; font-size: 1em; text-decoration: underline;">Dani</b> 」</samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Hola 」</a>
     <br>
     「 I am security researcher with a passion for coding from <b>llama land (Peru)</b> 」
     <br>
