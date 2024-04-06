@@ -26,8 +26,8 @@
 <div>
     <table align="center">
         <tr>
-            <td> <img src="https://media.isc2.org/-/jssmedia/Project/ISC2/Main/Components/Product-Masthead/Badge-CISSP-black.png" width = 150px height = 150px ></td>
-            <td> <img src="https://media.isc2.org/-/jssmedia/Project/ISC2/Main/Components/Product-Masthead/Badge-CCSP-black.png" width = 150px height = 150px ></td>
+            <td> <img src="https://media.isc2.org/-/jssmedia/Project/ISC2/Main/Components/Product-Masthead/Badge-CISSP-black.png" width = 150px></td>
+            <td> <img src="https://media.isc2.org/-/jssmedia/Project/ISC2/Main/Components/Product-Masthead/Badge-CCSP-black.png" width = 150px></td>
             <td> <img src="https://go.forrester.com/wp-content/uploads/2021/05/Forrester-Certification-AdoptingZeroTrust_page.png" width = 150px></td>
         </tr>
     </table>
