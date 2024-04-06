@@ -1,5 +1,7 @@
 
-# Hey there 👋, I’m @c00ki3z
+# Hey there 👋, In real life I go by Dani. I just like cookies..
+
+I am security professional, looking to contribute 
 
 More info coming soon.. `whoami > me.txt`
 
